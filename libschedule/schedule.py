@@ -1,0 +1,2 @@
+class Schedule(object):
+    pass
